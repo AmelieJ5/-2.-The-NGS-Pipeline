@@ -1,4 +1,4 @@
-#!/bin/bash
+$!/bin/bash
 
 # NGS Pipeline assessment q. 2
 # This pipeline processes NGS read data into a VCF. 
